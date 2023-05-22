@@ -1,0 +1,99 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Client/1.0.0": {
+        "dependencies": {
+          "AltV.Net.CApi": "14.0.1",
+          "AltV.Net.Client": "14.0.1",
+          "AltV.Net.Client.Async": "14.0.1",
+          "AltV.Net.Shared": "14.0.1"
+        },
+        "runtime": {
+          "Client.dll": {}
+        }
+      },
+      "AltV.Net.CApi/14.0.1": {
+        "runtime": {
+          "lib/net6.0/AltV.Net.CApi.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "AltV.Net.Client/14.0.1": {
+        "dependencies": {
+          "AltV.Net.CApi": "14.0.1",
+          "AltV.Net.Shared": "14.0.1"
+        },
+        "runtime": {
+          "lib/net6.0/AltV.Net.Client.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "AltV.Net.Client.Async/14.0.1": {
+        "dependencies": {
+          "AltV.Net.Client": "14.0.1"
+        },
+        "runtime": {
+          "lib/net6.0/AltV.Net.Client.Async.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "AltV.Net.Shared/14.0.1": {
+        "dependencies": {
+          "AltV.Net.CApi": "14.0.1"
+        },
+        "runtime": {
+          "lib/net6.0/AltV.Net.Shared.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AltV.Net.CApi/14.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ewb73wVC1BFn+A58cq1i1ksXSOnxj3oFD0/FM/+Ba8AHW1IugceJV1DA9/K4V74xB7k//T3vIiLTDeapTH85pw==",
+      "path": "altv.net.capi/14.0.1",
+      "hashPath": "altv.net.capi.14.0.1.nupkg.sha512"
+    },
+    "AltV.Net.Client/14.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YWQxf+fED8nrHlmbv3JWbsfTRQwRHYSxeBjCiqJ5lDB1Mwx5bIVBylGXuBClwkeLFrgn/M3UHEN3DQ+v2KGiqg==",
+      "path": "altv.net.client/14.0.1",
+      "hashPath": "altv.net.client.14.0.1.nupkg.sha512"
+    },
+    "AltV.Net.Client.Async/14.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1uobVwkKXEJq/JIwgQ5uDYtOOGS+vKvFE+E6VxDinx68WaJYRtBfJHRWvYvHzv6sVbrzco4l7DkXdlbBaxNPmQ==",
+      "path": "altv.net.client.async/14.0.1",
+      "hashPath": "altv.net.client.async.14.0.1.nupkg.sha512"
+    },
+    "AltV.Net.Shared/14.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ChuQj+itiYytkb5dl6fqmC9Bvgizo2pdV9ydEuLMEAXTKYaQM6jjgaZGI5PhY7pfCh4jqupCyHB1wJG9qyj/9Q==",
+      "path": "altv.net.shared/14.0.1",
+      "hashPath": "altv.net.shared.14.0.1.nupkg.sha512"
+    }
+  }
+}

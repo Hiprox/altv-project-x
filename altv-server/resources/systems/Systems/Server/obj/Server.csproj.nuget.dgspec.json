@@ -1,0 +1,118 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\anapc\\Desktop\\altv-server\\resources\\systems\\Systems\\Server\\Server.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\anapc\\Desktop\\altv-server\\resources\\systems\\Systems\\Server\\Server.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\anapc\\Desktop\\altv-server\\resources\\systems\\Systems\\Server\\Server.csproj",
+        "projectName": "Server",
+        "projectPath": "C:\\Users\\anapc\\Desktop\\altv-server\\resources\\systems\\Systems\\Server\\Server.csproj",
+        "packagesPath": "C:\\Users\\anapc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\anapc\\Desktop\\altv-server\\resources\\systems\\Systems\\Server\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\anapc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AltV.Net": {
+              "target": "Package",
+              "version": "[14.0.1, )"
+            },
+            "AltV.Net.Async": {
+              "target": "Package",
+              "version": "[14.0.1, )"
+            },
+            "AltV.Net.CApi": {
+              "target": "Package",
+              "version": "[14.0.1, )"
+            },
+            "AltV.Net.ColShape": {
+              "target": "Package",
+              "version": "[14.0.1, )"
+            },
+            "AltV.Net.EntitySync": {
+              "target": "Package",
+              "version": "[1.18.0, )"
+            },
+            "AltV.Net.EntitySync.ServerEvent": {
+              "target": "Package",
+              "version": "[14.0.1, )"
+            },
+            "AltV.Net.Interactions": {
+              "target": "Package",
+              "version": "[14.0.1, )"
+            },
+            "AltV.Net.ResourceGenerator": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "AltV.Net.Resources.Chat.Api": {
+              "target": "Package",
+              "version": "[14.0.1, )"
+            },
+            "AltV.Net.Shared": {
+              "target": "Package",
+              "version": "[14.0.1, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.32.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

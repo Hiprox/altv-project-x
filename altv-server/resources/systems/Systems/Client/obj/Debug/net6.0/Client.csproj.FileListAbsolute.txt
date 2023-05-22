@@ -1,0 +1,17 @@
+C:\Users\anapc\Desktop\altv-server\resources\systems\Systems\Client\bin\Debug\net6.0\Client.deps.json
+C:\Users\anapc\Desktop\altv-server\resources\systems\Systems\Client\bin\Debug\net6.0\Client.dll
+C:\Users\anapc\Desktop\altv-server\resources\systems\Systems\Client\bin\Debug\net6.0\Client.pdb
+C:\Users\anapc\Desktop\altv-server\resources\systems\Systems\Client\obj\Debug\net6.0\Client.csproj.AssemblyReference.cache
+C:\Users\anapc\Desktop\altv-server\resources\systems\Systems\Client\obj\Debug\net6.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anapc\Desktop\altv-server\resources\systems\Systems\Client\obj\Debug\net6.0\Client.AssemblyInfoInputs.cache
+C:\Users\anapc\Desktop\altv-server\resources\systems\Systems\Client\obj\Debug\net6.0\Client.AssemblyInfo.cs
+C:\Users\anapc\Desktop\altv-server\resources\systems\Systems\Client\obj\Debug\net6.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\anapc\Desktop\altv-server\resources\systems\Systems\Client\obj\Debug\net6.0\Client.dll
+C:\Users\anapc\Desktop\altv-server\resources\systems\Systems\Client\obj\Debug\net6.0\refint\Client.dll
+C:\Users\anapc\Desktop\altv-server\resources\systems\Systems\Client\obj\Debug\net6.0\Client.pdb
+C:\Users\anapc\Desktop\altv-server\resources\systems\Systems\Client\obj\Debug\net6.0\ref\Client.dll
+C:\Users\anapc\Desktop\altv-server\resources\systems\Systems\Client\bin\Debug\net6.0\AltV.Net.CApi.dll
+C:\Users\anapc\Desktop\altv-server\resources\systems\Systems\Client\bin\Debug\net6.0\AltV.Net.Client.dll
+C:\Users\anapc\Desktop\altv-server\resources\systems\Systems\Client\bin\Debug\net6.0\AltV.Net.Client.Async.dll
+C:\Users\anapc\Desktop\altv-server\resources\systems\Systems\Client\bin\Debug\net6.0\AltV.Net.Shared.dll
+C:\Users\anapc\Desktop\altv-server\resources\systems\Systems\Client\obj\Debug\net6.0\Client.csproj.CopyComplete

@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AltV.Net" Version="14.0.1" />
+    <PackageReference Include="AltV.Net.Async" Version="14.0.1" />
+    <PackageReference Include="AltV.Net.CApi" Version="14.0.1" />
+    <PackageReference Include="AltV.Net.ColShape" Version="14.0.1" />
+    <PackageReference Include="AltV.Net.EntitySync" Version="1.18.0" />
+    <PackageReference Include="AltV.Net.EntitySync.ServerEvent" Version="14.0.1" />
+    <PackageReference Include="AltV.Net.Interactions" Version="14.0.1" />
+    <PackageReference Include="AltV.Net.ResourceGenerator" Version="1.0.1" />
+    <PackageReference Include="AltV.Net.Resources.Chat.Api" Version="14.0.1" />
+    <PackageReference Include="AltV.Net.Shared" Version="14.0.1" />
+    <PackageReference Include="MySql.Data" Version="8.0.32.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+</Project>

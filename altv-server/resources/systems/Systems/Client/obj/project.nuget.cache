@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0W86PFLh/7CnhiCbm/d6G3ulGm8LNyYhZpwZfMYLdriT3uXdX7qtq8f0b+XGCNpxFYg8KHtcn9pR7XSsWctCZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anapc\\Desktop\\altv-server\\resources\\systems\\Systems\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anapc\\.nuget\\packages\\altv.net.capi\\14.0.1\\altv.net.capi.14.0.1.nupkg.sha512",
+    "C:\\Users\\anapc\\.nuget\\packages\\altv.net.client\\14.0.1\\altv.net.client.14.0.1.nupkg.sha512",
+    "C:\\Users\\anapc\\.nuget\\packages\\altv.net.client.async\\14.0.1\\altv.net.client.async.14.0.1.nupkg.sha512",
+    "C:\\Users\\anapc\\.nuget\\packages\\altv.net.shared\\14.0.1\\altv.net.shared.14.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

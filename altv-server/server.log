@@ -1,0 +1,37 @@
+[22:57:48] alt:V Server 14.2 (release)
+[22:57:48] Starting alt:V Server on 127.0.0.1:7777
+[22:57:48] Loading resource chat
+[22:57:48] Loaded resource chat
+[22:57:48] Loading resource systems
+[22:58:24] [База данных] Подключено!
+[22:58:24] [Интерьеры] Идет загрузка...
+[22:58:24] [Интерьеры] Загружены!
+[22:58:24] Loaded resource systems
+[22:58:24] Loading resource client-systems
+[22:58:25] Loaded resource client-systems
+[22:58:25] Required server permissions:
+[22:58:25] Optional server permissions:
+[22:58:25] Starting HTTP server on 127.0.0.1:7777
+[22:58:25] Main thread started (ThreadId: 25356)
+[22:58:25] Colshape thread started (ThreadId: 18164)
+[22:58:25] EntityStreamer thread started (ThreadId: 19024)
+[22:58:25] Sync thread started (ThreadId: 9860)
+[22:58:25] Console thread started (ThreadId: 20880)
+[22:58:25] Network thread started (ThreadId: 21044)
+[22:58:25][Warning] Converted configs to new format
+[22:58:25][Warning] Server started in debug mode
+[22:58:41] [chat:cmd] Hiprox: /editor
+[22:58:41] editor worked
+[23:04:38] [chat:cmd] Hiprox: /editor
+[23:04:38] editor worked
+[23:04:56] [chat:cmd] Hiprox: /editor
+[23:04:56] editor worked
+[23:04:59] [chat:cmd] Hiprox: /editor
+[23:04:59] editor worked
+[23:05:04] [chat:cmd] Hiprox: /editor
+[23:05:04] editor worked
+[23:05:07] [chat:cmd] Hiprox: /editor
+[23:05:07] editor worked
+[23:06:42] Stopping resource chat
+[23:06:42] Stopped resource chat
+[23:06:42] Stopping resource systems

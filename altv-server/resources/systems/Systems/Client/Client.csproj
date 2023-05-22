@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AltV.Net.CApi" Version="14.0.1" />
+    <PackageReference Include="AltV.Net.Client" Version="14.0.1" />
+    <PackageReference Include="AltV.Net.Client.Async" Version="14.0.1" />
+    <PackageReference Include="AltV.Net.Shared" Version="14.0.1" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,12 @@
+announce = false
+debug = true
+description = 'alt:V Sample Server'
+gamemode = 'RP'
+host = '127.0.0.1'
+language = 'ru'
+modules = [ 'js-module', 'csharp-module' ]
+name = 'alt:V Server'
+players = 128
+port = 7777
+resources = [ 'chat', 'systems', 'client-systems' ]
+website = 'example.com'

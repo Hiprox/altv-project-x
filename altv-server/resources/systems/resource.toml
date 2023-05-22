@@ -1,0 +1,8 @@
+type = 'csharp'
+main = 'Systems\Server\bin\Debug\net6.0\Server.dll'
+
+client-type = 'csharp'
+client-main = 'Systems\Client\bin\Debug\net6.0\Client.dll'
+client-files = [
+    'Systems\Client\bin\*'
+]
